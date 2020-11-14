@@ -1,0 +1,19 @@
+{
+  "name": "html_css_1pec_1",
+  "version": "1.0.0",
+  "description": "PEC_1 de la asignatura HTML y CSS 1. UOC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam10F/HTML_CSS1PEC_1.git"
+  },
+  "author": "Samuel10F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam10F/HTML_CSS1PEC_1/issues"
+  },
+  "homepage": "https://github.com/Sam10F/HTML_CSS1PEC_1#readme"
+}
